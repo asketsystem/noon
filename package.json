@@ -1,0 +1,11 @@
+{
+  "name": "noon",
+  "version": "1.0.0",
+  "description": "This is a Chat App build with GraphQL, react and Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franck Asket",
+  "license": "ISC"
+}
